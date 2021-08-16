@@ -1,6 +1,8 @@
-REACT WEATHER API CREATED WITH:
+Weather app that fetches current weather for any capital city in the world.
 
-OPEN WEATHER MAP API,
+Made with:
+REACT ||
+OPEN WEATHER MAP API ||
 MATERIAL UI
 
-DEPLOYED AT: https://uwitdat.github.io/weather-api/
+Deployed at: https://uwitdat.github.io/weather-api/
