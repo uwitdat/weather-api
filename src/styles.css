@@ -67,3 +67,8 @@ h4 {
 .menu-item-drop:hover {
   background-color: rgb(70, 69, 69) !important;
 }
+
+.MuiList-padding {
+  padding-bottom: 0 !important;
+  padding-top: 0 !important;
+}
